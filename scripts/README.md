@@ -10,3 +10,8 @@
 - I've assign `Bypass Plugins` to button 1 and `Enable Plugins` to button 2
 
 ![Small screencast](https://raw.githubusercontent.com/rghvdberg/OSC97/master/scripts/Assign%20scripts%20to%20buttons.webm)
+
+## Using the scripts
+The scripts only work on **selected** tracks.
+In the Editor window click on the first track then shift-click on the last track, this way you can select a whole range of tracks.
+With the tracks selected, click on button `1` or `2` depending on what you need.
