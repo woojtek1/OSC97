@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <UndoHistory>
-  <UndoTransaction tv-sec="1488833923" tv-usec="140730346709032" name="add note">
+  <UndoTransaction tv-sec="1488833923" tv-usec="140737477172040" name="add note">
     <NoteDiffCommand midi-source="39307">
       <ChangedNotes/>
       <AddedNotes>
@@ -9,7 +9,7 @@
       <RemovedNotes/>
     </NoteDiffCommand>
   </UndoTransaction>
-  <UndoTransaction tv-sec="1488833929" tv-usec="140730346709032" name="add note">
+  <UndoTransaction tv-sec="1488833929" tv-usec="140737477172040" name="add note">
     <NoteDiffCommand midi-source="39307">
       <ChangedNotes/>
       <AddedNotes>
@@ -18,7 +18,7 @@
       <RemovedNotes/>
     </NoteDiffCommand>
   </UndoTransaction>
-  <UndoTransaction tv-sec="1488833932" tv-usec="140730346709032" name="add note">
+  <UndoTransaction tv-sec="1488833932" tv-usec="140737477172040" name="add note">
     <NoteDiffCommand midi-source="39307">
       <ChangedNotes/>
       <AddedNotes>
@@ -27,7 +27,7 @@
       <RemovedNotes/>
     </NoteDiffCommand>
   </UndoTransaction>
-  <UndoTransaction tv-sec="1488833936" tv-usec="140730346709032" name="add note">
+  <UndoTransaction tv-sec="1488833936" tv-usec="140737477172040" name="add note">
     <NoteDiffCommand midi-source="39307">
       <ChangedNotes/>
       <AddedNotes>
@@ -36,7 +36,7 @@
       <RemovedNotes/>
     </NoteDiffCommand>
   </UndoTransaction>
-  <UndoTransaction tv-sec="1488834584" tv-usec="140730346709032" name="region copy">
+  <UndoTransaction tv-sec="1488834584" tv-usec="140737477172040" name="region copy">
     <StatefulDiffCommand obj-id="10037" type-name="ARDOUR::MidiPlaylist">
       <Changes>
         <Regions>
@@ -45,7 +45,7 @@
       </Changes>
     </StatefulDiffCommand>
   </UndoTransaction>
-  <UndoTransaction tv-sec="1488834629" tv-usec="140730346709032" name="region copy">
+  <UndoTransaction tv-sec="1488834629" tv-usec="140737477172040" name="region copy">
     <StatefulDiffCommand obj-id="9397" type-name="ARDOUR::MidiPlaylist">
       <Changes>
         <Regions>
@@ -54,7 +54,7 @@
       </Changes>
     </StatefulDiffCommand>
   </UndoTransaction>
-  <UndoTransaction tv-sec="1488834645" tv-usec="140730346709032" name="move notes">
+  <UndoTransaction tv-sec="1488834645" tv-usec="140737477172040" name="move notes">
     <NoteDiffCommand midi-source="38933">
       <ChangedNotes>
         <Change property="StartTime" old="0" new="0.75" id="703460"/>
@@ -174,7 +174,7 @@
       <RemovedNotes/>
     </NoteDiffCommand>
   </UndoTransaction>
-  <UndoTransaction tv-sec="1488834648" tv-usec="140730346709032" name="move notes">
+  <UndoTransaction tv-sec="1488834648" tv-usec="140737477172040" name="move notes">
     <NoteDiffCommand midi-source="38933">
       <ChangedNotes>
         <Change property="StartTime" old="3.75" new="3.5" id="702742"/>
@@ -224,7 +224,7 @@
       <RemovedNotes/>
     </NoteDiffCommand>
   </UndoTransaction>
-  <UndoTransaction tv-sec="1488834651" tv-usec="140730346709032" name="move notes">
+  <UndoTransaction tv-sec="1488834651" tv-usec="140737477172040" name="move notes">
     <NoteDiffCommand midi-source="38933">
       <ChangedNotes>
         <Change property="StartTime" old="2.5" new="2.75" id="703224"/>
@@ -246,7 +246,7 @@
       <RemovedNotes/>
     </NoteDiffCommand>
   </UndoTransaction>
-  <UndoTransaction tv-sec="1488835312" tv-usec="140730346709032" name="Fork Region(s)">
+  <UndoTransaction tv-sec="1488835312" tv-usec="140737477172040" name="Fork Region(s)">
     <StatefulDiffCommand obj-id="10037" type-name="ARDOUR::MidiPlaylist">
       <Changes>
         <Regions>
@@ -256,12 +256,12 @@
       </Changes>
     </StatefulDiffCommand>
   </UndoTransaction>
-  <UndoTransaction tv-sec="1488835314" tv-usec="140730346709032" name="region drag">
+  <UndoTransaction tv-sec="1488835314" tv-usec="140737477172040" name="region drag">
     <StatefulDiffCommand obj-id="39866" type-name="ARDOUR::MidiRegion">
       <Changes/>
     </StatefulDiffCommand>
   </UndoTransaction>
-  <UndoTransaction tv-sec="1488835318" tv-usec="140730346709032" name="resize notes">
+  <UndoTransaction tv-sec="1488835318" tv-usec="140737477172040" name="resize notes">
     <NoteDiffCommand midi-source="39864">
       <ChangedNotes>
         <Change property="Length" old="0.25" new="0.5" id="1919560"/>
@@ -311,7 +311,7 @@
       <RemovedNotes/>
     </NoteDiffCommand>
   </UndoTransaction>
-  <UndoTransaction tv-sec="1488835328" tv-usec="140730346709032" name="resize notes">
+  <UndoTransaction tv-sec="1488835328" tv-usec="140737477172040" name="resize notes">
     <NoteDiffCommand midi-source="39864">
       <ChangedNotes>
         <Change property="Length" old="0.25" new="0.5" id="1919540"/>
@@ -333,7 +333,7 @@
       <RemovedNotes/>
     </NoteDiffCommand>
   </UndoTransaction>
-  <UndoTransaction tv-sec="1488835335" tv-usec="140730346709032" name="move marker">
+  <UndoTransaction tv-sec="1488835335" tv-usec="140737477172040" name="move marker">
     <MementoCommand obj-id="32" type-name="ARDOUR::Locations">
       <Locations>
         <Location id="350" name="session" start="0" end="617400" flags="IsSessionRange" locked="no" position-lock-style="AudioTime"/>
@@ -349,7 +349,7 @@
       </Locations>
     </MementoCommand>
   </UndoTransaction>
-  <UndoTransaction tv-sec="1488835388" tv-usec="140730346709032" name="move notes">
+  <UndoTransaction tv-sec="1488835388" tv-usec="140737477172040" name="move notes">
     <NoteDiffCommand midi-source="38933">
       <ChangedNotes>
         <Change property="StartTime" old="0.75" new="0" id="703647"/>
@@ -371,7 +371,7 @@
       <RemovedNotes/>
     </NoteDiffCommand>
   </UndoTransaction>
-  <UndoTransaction tv-sec="1488835391" tv-usec="140730346709032" name="move notes">
+  <UndoTransaction tv-sec="1488835391" tv-usec="140737477172040" name="move notes">
     <NoteDiffCommand midi-source="38933">
       <ChangedNotes>
         <Change property="StartTime" old="1.5" new="1" id="701624"/>
@@ -421,7 +421,7 @@
       <RemovedNotes/>
     </NoteDiffCommand>
   </UndoTransaction>
-  <UndoTransaction tv-sec="1488835395" tv-usec="140730346709032" name="move notes">
+  <UndoTransaction tv-sec="1488835395" tv-usec="140737477172040" name="move notes">
     <NoteDiffCommand midi-source="38933">
       <ChangedNotes>
         <Change property="StartTime" old="2.25" new="2" id="701956"/>
@@ -443,7 +443,7 @@
       <RemovedNotes/>
     </NoteDiffCommand>
   </UndoTransaction>
-  <UndoTransaction tv-sec="1488835416" tv-usec="140730346709032" name="move marker">
+  <UndoTransaction tv-sec="1488835416" tv-usec="140737477172040" name="move marker">
     <MementoCommand obj-id="32" type-name="ARDOUR::Locations">
       <Locations>
         <Location id="350" name="session" start="0" end="617400" flags="IsSessionRange" locked="no" position-lock-style="AudioTime"/>
@@ -459,7 +459,7 @@
       </Locations>
     </MementoCommand>
   </UndoTransaction>
-  <UndoTransaction tv-sec="1488835418" tv-usec="140730346709032" name="move marker">
+  <UndoTransaction tv-sec="1488835418" tv-usec="140737477172040" name="move marker">
     <MementoCommand obj-id="32" type-name="ARDOUR::Locations">
       <Locations>
         <Location id="350" name="session" start="0" end="617400" flags="IsSessionRange" locked="no" position-lock-style="AudioTime"/>
@@ -475,7 +475,7 @@
       </Locations>
     </MementoCommand>
   </UndoTransaction>
-  <UndoTransaction tv-sec="1488859642" tv-usec="140730346709032" name="replace tempo mark">
+  <UndoTransaction tv-sec="1488859642" tv-usec="140737477172040" name="replace tempo mark">
     <MementoCommand obj-id="50" type-name="ARDOUR::TempoMap">
       <TempoMap>
         <Tempo pulse="0.000000" frame="0" beats-per-minute="120.000000" note-type="4.000000" movable="no" active="yes" tempo-type="Ramp" lock-style="AudioTime" locked-to-meter="yes"/>
