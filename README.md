@@ -3,7 +3,9 @@
 This is a work in progress music project by @rghvdberg and @jruegg for the One Synth Challenge.
 Synth used in this project : Fortune Cookie 2012
 This synth can be downloaded for free on https://archive.org/details/HGFortune-FortuneCookie-2012.
+
 For further info on the OSC check https://sites.google.com/site/kvrosc/osc-97-fortune-cookie-2012
+
 KVR Thread : https://www.kvraudio.com/forum/viewtopic.php?p=6717497#p6717497
 
 We are using [Ardour 5.8](http://www.ardour.org) as the DAW on Linux (Ubuntu and Mint) with [KX Studio](http://kxstudio.linuxaudio.org/) repositories
