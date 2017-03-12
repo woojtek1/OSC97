@@ -2,14 +2,42 @@
 <instant>
   <LastUsedSnapshot name="OSC97"/>
   <Main x="0" y="0" w="1918" h="1028" current-tab="mixer"/>
-  <Editor id="37" edit-horizontal-pane-pos="0.801657" notebook-shrunk="0" edit-vertical-pane-pos="0.900000" mixer-width="Wide" zoom-focus="ZoomFocusCenter" zoom="4224" snap-to="SnapToBeatDiv2" snap-mode="SnapNormal" internal-snap-to="SnapToBeatDiv2" internal-snap-mode="SnapNormal" pre-internal-snap-to="SnapToBeatDiv2" pre-internal-snap-mode="SnapNormal" edit-point="EditAtMouse" visible-track-count="-1" playhead="0" left-frame="0" y-origin="1245.000000" show-measures="yes" maximised="no" follow-playhead="yes" stationary-playhead="no" region-list-sort-type="ByPosition" mouse-mode="MouseObject" join-object-range="no" show-editor-mixer="yes" show-editor-list="yes" editor-list-page="1" show-marker-lines="yes" nudge-clock-value="220500">
+  <Editor id="37" edit-horizontal-pane-pos="0.801657" notebook-shrunk="0" edit-vertical-pane-pos="0.900000" mixer-width="Wide" zoom-focus="ZoomFocusCenter" zoom="528" snap-to="SnapToBeatDiv2" snap-mode="SnapNormal" internal-snap-to="SnapToBeatDiv2" internal-snap-mode="SnapNormal" pre-internal-snap-to="SnapToBeatDiv2" pre-internal-snap-mode="SnapNormal" edit-point="EditAtMouse" visible-track-count="-1" playhead="0" left-frame="0" y-origin="0.000000" show-measures="yes" maximised="no" follow-playhead="yes" stationary-playhead="no" region-list-sort-type="ByPosition" mouse-mode="MouseObject" join-object-range="no" show-editor-mixer="yes" show-editor-list="yes" editor-list-page="1" show-marker-lines="yes" nudge-clock-value="220500">
     <Window name="Editor" visible="no" x-off="0" y-off="0" x-size="1323" y-size="722" tabbed="yes"/>
     <Buttons>
       <Press/>
       <Release/>
     </Buttons>
     <Selection>
+      <RouteView id="51"/>
+      <RouteView id="39024"/>
+      <RouteView id="39722"/>
+      <RouteView id="96827"/>
+      <RouteView id="96962"/>
+      <RouteView id="9120"/>
+      <RouteView id="9440"/>
+      <RouteView id="9760"/>
+      <RouteView id="10080"/>
+      <RouteView id="95805"/>
+      <RouteView id="7744"/>
+      <RouteView id="10400"/>
+      <RouteView id="10720"/>
+      <RouteView id="11040"/>
+      <RouteView id="11360"/>
+      <RouteView id="87851"/>
+      <RouteView id="13280"/>
+      <RouteView id="56737"/>
+      <RouteView id="57754"/>
+      <RouteView id="58708"/>
+      <RouteView id="58949"/>
+      <RouteView id="59453"/>
+      <RouteView id="59957"/>
+      <RouteView id="60461"/>
+      <RouteView id="60851"/>
+      <RouteView id="105173"/>
       <RouteView id="105653"/>
+      <RouteView id="115311"/>
+      <RouteView id="127302"/>
       <Marker id="360" start="no"/>
     </Selection>
     <RegionList sort-type="ByPosition" sort-ascending="yes" show-all="yes" show-automatic-regions="yes"/>
