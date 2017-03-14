@@ -1,41 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <instant>
   <LastUsedSnapshot name="OSC97"/>
-  <Main x="0" y="0" w="1918" h="1028" current-tab="editor"/>
-  <Editor id="37" edit-horizontal-pane-pos="0.801657" notebook-shrunk="0" edit-vertical-pane-pos="0.900000" mixer-width="Wide" zoom-focus="ZoomFocusCenter" zoom="2144" snap-to="SnapToBeatDiv2" snap-mode="SnapNormal" internal-snap-to="SnapToBeatDiv2" internal-snap-mode="SnapNormal" pre-internal-snap-to="SnapToBeatDiv2" pre-internal-snap-mode="SnapNormal" edit-point="EditAtMouse" visible-track-count="-1" playhead="0" left-frame="1839552" y-origin="0.000000" show-measures="yes" maximised="no" follow-playhead="no" stationary-playhead="no" region-list-sort-type="ByPosition" mouse-mode="MouseObject" join-object-range="no" show-editor-mixer="yes" show-editor-list="yes" editor-list-page="1" show-marker-lines="yes" nudge-clock-value="220500">
+  <Main x="43" y="21" w="1323" h="747" current-tab="mixer"/>
+  <Editor id="37" edit-horizontal-pane-pos="0.900000" notebook-shrunk="0" edit-vertical-pane-pos="0.789308" mixer-width="Wide" zoom-focus="ZoomFocusCenter" zoom="2144" snap-to="SnapToBeatDiv2" snap-mode="SnapNormal" internal-snap-to="SnapToBeatDiv2" internal-snap-mode="SnapNormal" pre-internal-snap-to="SnapToBeatDiv2" pre-internal-snap-mode="SnapNormal" edit-point="EditAtMouse" visible-track-count="-1" playhead="4838400" left-frame="4468096" y-origin="480.000000" show-measures="yes" maximised="no" follow-playhead="no" stationary-playhead="no" region-list-sort-type="ByPosition" mouse-mode="MouseObject" join-object-range="no" show-editor-mixer="yes" show-editor-list="yes" editor-list-page="1" show-marker-lines="yes" nudge-clock-value="220500">
     <Window name="Editor" visible="no" x-off="0" y-off="0" x-size="1323" y-size="722" tabbed="yes"/>
     <Buttons>
       <Press/>
       <Release/>
     </Buttons>
     <Selection>
+      <RouteView id="7744"/>
+      <RouteView id="9440"/>
+      <RouteView id="10720"/>
+      <RouteView id="11040"/>
+      <RouteView id="56737"/>
+      <RouteView id="150502"/>
+      <RouteView id="105653"/>
+      <RouteView id="307574"/>
+      <RouteView id="39024"/>
+      <RouteView id="58708"/>
+      <RouteView id="58949"/>
+      <RouteView id="59453"/>
+      <RouteView id="60851"/>
+      <RouteView id="51"/>
+      <RouteView id="105173"/>
+      <RouteView id="39722"/>
+      <RouteView id="96827"/>
+      <RouteView id="9120"/>
+      <RouteView id="9760"/>
+      <RouteView id="10400"/>
+      <RouteView id="13280"/>
+      <RouteView id="59957"/>
+      <RouteView id="60461"/>
+      <RouteView id="115311"/>
+      <RouteView id="96962"/>
+      <RouteView id="127302"/>
+      <RouteView id="245085"/>
+      <RouteView id="57754"/>
+      <RouteView id="10080"/>
+      <RouteView id="11360"/>
+      <RouteView id="203824"/>
+      <RouteView id="307897"/>
+      <RouteView id="95805"/>
+      <RouteView id="87851"/>
       <Marker id="360" start="no"/>
     </Selection>
     <RegionList sort-type="ByPosition" sort-ascending="yes" show-all="yes" show-automatic-regions="yes"/>
-    <ActionScript lua="Lua 5.3">c2NyaXB0cyA9IHt9IHNjcmlwdHNbMV0gPSB7fSBzY3JpcHRzWzFdWyJhIl0gPSB7fSBzY3JpcHRzWzFdWyJhIl1bIngtc2NyaXB0LW9yaWdpbiJdID0gIi9ob21lL2pvc2lhcy8uY29uZmlnL2FyZG91cjUvc2NyaXB0cy9CeXBhc3NQbHVnaW5zLmx1YSIgICBzY3JpcHRzWzFdWyJjIl0gPSB0cnVlIHNjcmlwdHNbMV1bIm4iXSA9ICJieSIgIHNjcmlwdHNbMV1bInMiXSA9ICItLS0tIHRoaXMgaGVhZGVyIGlzIChvbmx5KSByZXF1aXJlZCB0byBzYXZlIHRoZSBzY3JpcHRcCi0tIGFyZG91ciB7IFtcInR5cGVcIl0gPSBcIlNuaXBwZXRcIiwgbmFtZSA9IFwiXCIgfVwKLS0gZnVuY3Rpb24gZmFjdG9yeSAoKSByZXR1cm4gZnVuY3Rpb24gKCkgLS0gLS0gZW5kIGVuZFwKYXJkb3VyIHtcClw5W1widHlwZVwiXSAgICA9IFwiRWRpdG9yQWN0aW9uXCIsXApcOW5hbWUgICAgICAgID0gXCJCeXBhc3MgUGx1Z2luc1wiLFwKXDlsaWNlbnNlICAgICA9IFwiTUlUXCIsXApcOWF1dGhvciAgICAgID0gXCJBcmRvdXIgVGVhbVwiLFwKXDlkZXNjcmlwdGlvbiA9IFtbQnlwYXNzIFBsdWdpbnMgb24gc2VsZWN0ZWQgdHJhY2tzXV1cCn1cClwKZnVuY3Rpb24gZmFjdG9yeSAoKSByZXR1cm4gZnVuY3Rpb24gKClcClw5bG9jYWwgc2VsID0gRWRpdG9yOmdldF9zZWxlY3Rpb24gKClcClw5Zm9yIHIgaW4gc2VsLnRyYWNrczpyb3V0ZWxpc3QgKCk6aXRlciAoKSBkb1wKXDlcOWxvY2FsIGkgPSAwO1wKXDlcOXdoaWxlIDEgZG8gLS0gaXRlcmF0ZSBvdmVyIGFsbCBwbHVnaW5zL3Byb2Nlc3NvcnNcClw5XDlcOWxvY2FsIHByb2MgPSByOm50aF9wbHVnaW4gKGkpXApcOVw5XDlpZiBwcm9jOmlzbmlsICgpIHRoZW5cClw5XDlcOVw5YnJlYWtcClw5XDlcOWVuZFwKXDlcOVw5cHJvYzp0b19pbnNlcnQoKTpkZWFjdGl2YXRlKClcClw5XDlcOWkgPSBpICsgMVwKXDlcOWVuZFwKXDllbmRcCmVuZCBlbmRcCiIgIHNjcmlwdHNbMV1bImYiXSA9ICJcMjdMdWFTXDBcMjWTXDEzXApcMjZcClw0XDhcNFw4XDh4VlwwXDBcMFwwXDBcMFwwXDBcMFwwXDAod0BcMVwwXDEyXDBcMFwwXDI1XDBcMFwwXDBcMFwyXDNcMFwwXDAsXDBcMFwwJlwwXDBcMSZcMIBcMFwwXDBcMFwwXDFcMFwwXDBcMFwwXDFcMFwwXDBcMFwxMlwwXDBcMFwyNVwwXDBcMFwwXDBcOVwyNlwwXDBcMFw2XDBAXDBcMTJAQFwwJIBcMFwxR4BAXDBMwMBcMGSAXDBcMUxcMMFcMGRcMFwxXDFcMzBAXDOAQUFcMVwwjIFBXDJcMFwygFwypIGAXDHMwUFcM+SBXDBcMeJBXDBcMFwzMEBcMYDMXDFCXDPkgVwwXDHMQcJcM+RBXDBcMU2BwlwyXDMwgPxcMTI3aUBcMFww6sD7XDEyNyZcMIBcMFwxMVwwXDBcMFw0XDdFZGl0b3JcNFwxNGdldF9zZWxlY3Rpb25cNFw3dHJhY2tzXDRcCnJvdXRlbGlzdFw0XDVpdGVyXDE5XDBcMFwwXDBcMFwwXDBcMFw0XDExbnRoX3BsdWdpblw0XDZpc25pbFw0XAp0b19pbnNlcnRcNFwxMWRlYWN0aXZhdGVcMTlcMVwwXDBcMFwwXDBcMFwwXDFcMFwwXDBcMFwwXDBcMFwwXDBcMFwwXDBcMFwwXDBcMFwwXDBcMFwwXDBcMFwwXDBcMFwwXDBcMFwwXDBcMFwwXDAiICBzY3JpcHRzWzJdID0ge30gc2NyaXB0c1syXVsiYSJdID0ge30gc2NyaXB0c1syXVsiYSJdWyJ4LXNjcmlwdC1vcmlnaW4iXSA9ICIvaG9tZS9qb3NpYXMvLmNvbmZpZy9hcmRvdXI1L3NjcmlwdHMvRW5hYmxlUGx1Z2lucy5sdWEiICAgc2NyaXB0c1syXVsiYyJdID0gdHJ1ZSBzY3JpcHRzWzJdWyJuIl0gPSAiZW4iICBzY3JpcHRzWzJdWyJzIl0gPSAiLS0tLSB0aGlzIGhlYWRlciBpcyAob25seSkgcmVxdWlyZWQgdG8gc2F2ZSB0aGUgc2NyaXB0XAotLSBhcmRvdXIgeyBbXCJ0eXBlXCJdID0gXCJTbmlwcGV0XCIsIG5hbWUgPSBcIlwiIH1cCi0tIGZ1bmN0aW9uIGZhY3RvcnkgKCkgcmV0dXJuIGZ1bmN0aW9uICgpIC0tIC0tIGVuZCBlbmRcCmFyZG91ciB7XApcOVtcInR5cGVcIl0gICAgPSBcIkVkaXRvckFjdGlvblwiLFwKXDluYW1lICAgICAgICA9IFwiRW5hYmxlIFBsdWdpbnNcIixcClw5bGljZW5zZSAgICAgPSBcIk1JVFwiLFwKXDlhdXRob3IgICAgICA9IFwiQXJkb3VyIFRlYW1cIixcClw5ZGVzY3JpcHRpb24gPSBbW0VuYWJsZSBQbHVnaW5zIG9uIHNlbGVjdGVkIHRyYWNrc11dXAp9XApcCmZ1bmN0aW9uIGZhY3RvcnkgKCkgcmV0dXJuIGZ1bmN0aW9uICgpXApcOWxvY2FsIHNlbCA9IEVkaXRvcjpnZXRfc2VsZWN0aW9uICgpXApcOWZvciByIGluIHNlbC50cmFja3M6cm91dGVsaXN0ICgpOml0ZXIgKCkgZG9cClw5XDlsb2NhbCBpID0gMDtcClw5XDl3aGlsZSAxIGRvIC0tIGl0ZXJhdGUgb3ZlciBhbGwgcGx1Z2lucy9wcm9jZXNzb3JzXApcOVw5XDlsb2NhbCBwcm9jID0gcjpudGhfcGx1Z2luIChpKVwKXDlcOVw5aWYgcHJvYzppc25pbCAoKSB0aGVuXApcOVw5XDlcOWJyZWFrXApcOVw5XDllbmRcClw5XDlcOXByb2M6dG9faW5zZXJ0KCk6YWN0aXZhdGUoKVwKXDlcOVw5aSA9IGkgKyAxXApcOVw5ZW5kXApcOWVuZFwKZW5kIGVuZFwKIiAgc2NyaXB0c1syXVsiZiJdID0gIlwyN0x1YVNcMFwyNZNcMTNcClwyNlwKXDRcOFw0XDhcOHhWXDBcMFwwXDBcMFwwXDBcMFwwXDBcMCh3QFwxXDBcMTJcMFwwXDBcMjVcMFwwXDBcMFwwXDJcM1wwXDBcMCxcMFwwXDAmXDBcMFwxJlwwgFwwXDBcMFwwXDBcMVwwXDBcMFwwXDBcMVwwXDBcMFwwXDEyXDBcMFwwXDI1XDBcMFwwXDBcMFw5XDI2XDBcMFwwXDZcMEBcMFwxMkBAXDAkgFwwXDFHgEBcMEzAwFwwZIBcMFwxTFwwwVwwZFwwXDFcMVwzMEBcM4BBQVwxXDCMgUFcMlwwXDKAXDKkgYBcMczBQVwz5IFcMFwx4kFcMFwwXDMwQFwxgMxcMUJcM+SBXDBcMcxBwlwz5EFcMFwxTYHCXDJcMzCA/FwxMjdpQFwwXDDqwPtcMTI3JlwwgFwwXDExXDBcMFwwXDRcN0VkaXRvclw0XDE0Z2V0X3NlbGVjdGlvblw0XDd0cmFja3NcNFwKcm91dGVsaXN0XDRcNWl0ZXJcMTlcMFwwXDBcMFwwXDBcMFwwXDRcMTFudGhfcGx1Z2luXDRcNmlzbmlsXDRcCnRvX2luc2VydFw0XDlhY3RpdmF0ZVwxOVwxXDBcMFwwXDBcMFwwXDBcMVwwXDBcMFwwXDBcMFwwXDBcMFwwXDBcMFwwXDBcMFwwXDBcMFwwXDBcMFwwXDBcMFwwXDBcMFwwXDBcMFwwXDBcMCIgIA==</ActionScript>
+    <ActionScript lua="Lua 5.3">c2NyaXB0cyA9IHt9IHNjcmlwdHNbMV0gPSB7fSBzY3JpcHRzWzFdWyJhIl0gPSB7fSBzY3JpcHRzWzFdWyJhIl1bIngtc2NyaXB0LW9yaWdpbiJdID0gIi9ob21lL2pvc2lhcy8uY29uZmlnL2FyZG91cjUvc2NyaXB0cy9CeXBhc3NQbHVnaW5zLmx1YSIgICBzY3JpcHRzWzFdWyJuIl0gPSAiYnkiICBzY3JpcHRzWzFdWyJjIl0gPSB0cnVlIHNjcmlwdHNbMV1bImYiXSA9ICJcMjdMdWFTXDBcMjWTXDEzXApcMjZcClw0XDhcNFw4XDh4VlwwXDBcMFwwXDBcMFwwXDBcMFwwXDAod0BcMVwwXDEyXDBcMFwwXDI1XDBcMFwwXDBcMFwyXDNcMFwwXDAsXDBcMFwwJlwwXDBcMSZcMIBcMFwwXDBcMFwwXDFcMFwwXDBcMFwwXDFcMFwwXDBcMFwxMlwwXDBcMFwyNVwwXDBcMFwwXDBcOVwyNlwwXDBcMFw2XDBAXDBcMTJAQFwwJIBcMFwxR4BAXDBMwMBcMGSAXDBcMUxcMMFcMGRcMFwxXDFcMzBAXDOAQUFcMVwwjIFBXDJcMFwygFwypIGAXDHMwUFcM+SBXDBcMeJBXDBcMFwzMEBcMYDMXDFCXDPkgVwwXDHMQcJcM+RBXDBcMU2BwlwyXDMwgPxcMTI3aUBcMFww6sD7XDEyNyZcMIBcMFwxMVwwXDBcMFw0XDdFZGl0b3JcNFwxNGdldF9zZWxlY3Rpb25cNFw3dHJhY2tzXDRcCnJvdXRlbGlzdFw0XDVpdGVyXDE5XDBcMFwwXDBcMFwwXDBcMFw0XDExbnRoX3BsdWdpblw0XDZpc25pbFw0XAp0b19pbnNlcnRcNFwxMWRlYWN0aXZhdGVcMTlcMVwwXDBcMFwwXDBcMFwwXDFcMFwwXDBcMFwwXDBcMFwwXDBcMFwwXDBcMFwwXDBcMFwwXDBcMFwwXDBcMFwwXDBcMFwwXDBcMFwwXDBcMFwwXDAiIHNjcmlwdHNbMV1bInMiXSA9ICItLS0tIHRoaXMgaGVhZGVyIGlzIChvbmx5KSByZXF1aXJlZCB0byBzYXZlIHRoZSBzY3JpcHRcCi0tIGFyZG91ciB7IFtcInR5cGVcIl0gPSBcIlNuaXBwZXRcIiwgbmFtZSA9IFwiXCIgfVwKLS0gZnVuY3Rpb24gZmFjdG9yeSAoKSByZXR1cm4gZnVuY3Rpb24gKCkgLS0gLS0gZW5kIGVuZFwKYXJkb3VyIHtcClw5W1widHlwZVwiXSAgICA9IFwiRWRpdG9yQWN0aW9uXCIsXApcOW5hbWUgICAgICAgID0gXCJCeXBhc3MgUGx1Z2luc1wiLFwKXDlsaWNlbnNlICAgICA9IFwiTUlUXCIsXApcOWF1dGhvciAgICAgID0gXCJBcmRvdXIgVGVhbVwiLFwKXDlkZXNjcmlwdGlvbiA9IFtbQnlwYXNzIFBsdWdpbnMgb24gc2VsZWN0ZWQgdHJhY2tzXV1cCn1cClwKZnVuY3Rpb24gZmFjdG9yeSAoKSByZXR1cm4gZnVuY3Rpb24gKClcClw5bG9jYWwgc2VsID0gRWRpdG9yOmdldF9zZWxlY3Rpb24gKClcClw5Zm9yIHIgaW4gc2VsLnRyYWNrczpyb3V0ZWxpc3QgKCk6aXRlciAoKSBkb1wKXDlcOWxvY2FsIGkgPSAwO1wKXDlcOXdoaWxlIDEgZG8gLS0gaXRlcmF0ZSBvdmVyIGFsbCBwbHVnaW5zL3Byb2Nlc3NvcnNcClw5XDlcOWxvY2FsIHByb2MgPSByOm50aF9wbHVnaW4gKGkpXApcOVw5XDlpZiBwcm9jOmlzbmlsICgpIHRoZW5cClw5XDlcOVw5YnJlYWtcClw5XDlcOWVuZFwKXDlcOVw5cHJvYzp0b19pbnNlcnQoKTpkZWFjdGl2YXRlKClcClw5XDlcOWkgPSBpICsgMVwKXDlcOWVuZFwKXDllbmRcCmVuZCBlbmRcCiIgICBzY3JpcHRzWzJdID0ge30gc2NyaXB0c1syXVsiYSJdID0ge30gc2NyaXB0c1syXVsiYSJdWyJ4LXNjcmlwdC1vcmlnaW4iXSA9ICIvaG9tZS9qb3NpYXMvLmNvbmZpZy9hcmRvdXI1L3NjcmlwdHMvRW5hYmxlUGx1Z2lucy5sdWEiICAgc2NyaXB0c1syXVsibiJdID0gImVuIiAgc2NyaXB0c1syXVsiYyJdID0gdHJ1ZSBzY3JpcHRzWzJdWyJmIl0gPSAiXDI3THVhU1wwXDI1k1wxM1wKXDI2XApcNFw4XDRcOFw4eFZcMFwwXDBcMFwwXDBcMFwwXDBcMFwwKHdAXDFcMFwxMlwwXDBcMFwyNVwwXDBcMFwwXDBcMlwzXDBcMFwwLFwwXDBcMCZcMFwwXDEmXDCAXDBcMFwwXDBcMFwxXDBcMFwwXDBcMFwxXDBcMFwwXDBcMTJcMFwwXDBcMjVcMFwwXDBcMFwwXDlcMjZcMFwwXDBcNlwwQFwwXDEyQEBcMCSAXDBcMUeAQFwwTMDAXDBkgFwwXDFMXDDBXDBkXDBcMVwxXDMwQFwzgEFBXDFcMIyBQVwyXDBcMoBcMqSBgFwxzMFBXDPkgVwwXDHiQVwwXDBcMzBAXDGAzFwxQlwz5IFcMFwxzEHCXDPkQVwwXDFNgcJcMlwzMID8XDEyN2lAXDBcMOrA+1wxMjcmXDCAXDBcMTFcMFwwXDBcNFw3RWRpdG9yXDRcMTRnZXRfc2VsZWN0aW9uXDRcN3RyYWNrc1w0XApyb3V0ZWxpc3RcNFw1aXRlclwxOVwwXDBcMFwwXDBcMFwwXDBcNFwxMW50aF9wbHVnaW5cNFw2aXNuaWxcNFwKdG9faW5zZXJ0XDRcOWFjdGl2YXRlXDE5XDFcMFwwXDBcMFwwXDBcMFwxXDBcMFwwXDBcMFwwXDBcMFwwXDBcMFwwXDBcMFwwXDBcMFwwXDBcMFwwXDBcMFwwXDBcMFwwXDBcMFwwXDBcMFwwIiBzY3JpcHRzWzJdWyJzIl0gPSAiLS0tLSB0aGlzIGhlYWRlciBpcyAob25seSkgcmVxdWlyZWQgdG8gc2F2ZSB0aGUgc2NyaXB0XAotLSBhcmRvdXIgeyBbXCJ0eXBlXCJdID0gXCJTbmlwcGV0XCIsIG5hbWUgPSBcIlwiIH1cCi0tIGZ1bmN0aW9uIGZhY3RvcnkgKCkgcmV0dXJuIGZ1bmN0aW9uICgpIC0tIC0tIGVuZCBlbmRcCmFyZG91ciB7XApcOVtcInR5cGVcIl0gICAgPSBcIkVkaXRvckFjdGlvblwiLFwKXDluYW1lICAgICAgICA9IFwiRW5hYmxlIFBsdWdpbnNcIixcClw5bGljZW5zZSAgICAgPSBcIk1JVFwiLFwKXDlhdXRob3IgICAgICA9IFwiQXJkb3VyIFRlYW1cIixcClw5ZGVzY3JpcHRpb24gPSBbW0VuYWJsZSBQbHVnaW5zIG9uIHNlbGVjdGVkIHRyYWNrc11dXAp9XApcCmZ1bmN0aW9uIGZhY3RvcnkgKCkgcmV0dXJuIGZ1bmN0aW9uICgpXApcOWxvY2FsIHNlbCA9IEVkaXRvcjpnZXRfc2VsZWN0aW9uICgpXApcOWZvciByIGluIHNlbC50cmFja3M6cm91dGVsaXN0ICgpOml0ZXIgKCkgZG9cClw5XDlsb2NhbCBpID0gMDtcClw5XDl3aGlsZSAxIGRvIC0tIGl0ZXJhdGUgb3ZlciBhbGwgcGx1Z2lucy9wcm9jZXNzb3JzXApcOVw5XDlsb2NhbCBwcm9jID0gcjpudGhfcGx1Z2luIChpKVwKXDlcOVw5aWYgcHJvYzppc25pbCAoKSB0aGVuXApcOVw5XDlcOWJyZWFrXApcOVw5XDllbmRcClw5XDlcOXByb2M6dG9faW5zZXJ0KCk6YWN0aXZhdGUoKVwKXDlcOVw5aSA9IGkgKyAxXApcOVw5ZW5kXApcOWVuZFwKZW5kIGVuZFwKIiAgIA==</ActionScript>
     <ActionHooks/>
     <EditorLocations clock-mode="Frames"/>
   </Editor>
-  <Mixer mixer-rhs-pane1-pos="0.600000" mixer-rhs-pane2-pos="0.700000" mixer-list-hpane-pos="0.078728" mixer-inner-pane-pos="0.800000" narrow-strips="no" show-mixer="no" show-mixer-list="yes" maximised="no">
+  <Mixer mixer-rhs-pane1-pos="0.127907" mixer-rhs-pane2-pos="0.700000" mixer-list-hpane-pos="0.144807" mixer-inner-pane-pos="0.800000" narrow-strips="no" show-mixer="no" show-mixer-list="yes" maximised="no">
     <Window name="Mixer" visible="no" x-off="43" y-off="21" x-size="1323" y-size="747" tabbed="yes"/>
-    <PluginOrder>
-      <PluginInfo sort="0" unique-id="80fa9fa88c54df4a9f8f871af5d6f9da846ca4e7" expanded="0"/>
-      <PluginInfo sort="1" unique-id="http://kxstudio.sf.net/carla/plugins/carlapatchbay" expanded="0"/>
-      <PluginInfo sort="2" unique-id="http://lsp-plug.in/plugins/lv2/compressor_stereo" expanded="0"/>
-      <PluginInfo sort="3" unique-id="http://eq10q.sourceforge.net/compressor_stereo" expanded="0"/>
-      <PluginInfo sort="4" unique-id="http://eq10q.sourceforge.net/eq/eq4qs" expanded="0"/>
-      <PluginInfo sort="5" unique-id="1751605622" expanded="0"/>
-      <PluginInfo sort="6" unique-id="1483101268" expanded="0"/>
-      <PluginInfo sort="7" unique-id="http://lsp-plug.in/plugins/lv2/sc_compressor_stereo" expanded="0"/>
-      <PluginInfo sort="8" unique-id="urn:juce:TalReverb2" expanded="0"/>
-      <PluginInfo sort="9" unique-id="http://lsp-plug.in/plugins/lv2/para_equalizer_x16_stereo" expanded="0"/>
-      <PluginInfo sort="10" unique-id="http://lsp-plug.in/plugins/lv2/limiter_stereo" expanded="0"/>
-      <PluginInfo sort="11" unique-id="1380275763" expanded="0"/>
-      <PluginInfo sort="12" unique-id="1466847281" expanded="0"/>
-    </PluginOrder>
+    <PluginOrder/>
   </Mixer>
   <Preferences>
-    <Window name="Preferences" visible="no" x-off="58" y-off="115" x-size="752" y-size="652" tabbed="no"/>
+    <Window name="Preferences" visible="no" x-off="-1" y-off="-1" x-size="-1" y-size="-1" tabbed="yes"/>
   </Preferences>
   <Meterbridge show-meterbridge="no">
     <geometry x-size="600" y-size="400" x-pos="1" y-pos="1"/>
